@@ -54,7 +54,7 @@ The easiest way to get started is to use our auto-install script:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ashuxd-X/Discord-Ai.git
+git clone https://github.com/airdrop8989/Discord-Ai.git
 cd Discord-Ai
 
 # Run the auto-install script
@@ -264,15 +264,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Google Gemini AI](https://ai.google.dev/)
 - All contributors who have helped improve this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/Ashuxd-X/Discord-Ai/issues) page
-2. Create a new issue if needed
-
----
-
-<div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/Ashuxd-X">Ashuxd-X</a></p>
-</div>
